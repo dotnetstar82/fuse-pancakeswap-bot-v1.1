@@ -17,7 +17,7 @@ Run `yarn install` or 'npm install' to install dependencies.
 
 ## Run
 
-Run `npm start` to execute the test suite.
+Run `npm start` to execute the test suite. (Required run as administrator privilege)
 
 ## Usage
 
